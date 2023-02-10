@@ -1,4 +1,4 @@
-# FSJS Project 3: Digital marketing home page
+# FSJS Project 4: Digital marketing home page
 
 
 ![Tech](https://img.shields.io/badge/HTML-CSS-blue)
@@ -25,7 +25,7 @@
 
 ### ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
 
-![Output](./final%20output/)
+![Output](./final%20output/final%20output.jpeg)
 
 
 
