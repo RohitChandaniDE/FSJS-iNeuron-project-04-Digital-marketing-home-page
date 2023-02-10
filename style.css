@@ -3,6 +3,7 @@ body{
     background-size: cover;
     height: 100vh;
     margin: auto;
+    background-color: #ffffff;
 }
 
 .navbar-container{
