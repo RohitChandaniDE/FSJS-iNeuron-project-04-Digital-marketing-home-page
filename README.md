@@ -13,8 +13,6 @@
 
 - The project is not mobile responsive.
 
-- **This project may vary depending on the screen size of the device. Looks perfect for large device and may vary for small laptop screens.**
-
 ***
 
 
