@@ -4,7 +4,7 @@ body{
     height: 100vh;
     margin: auto;
     background-color: #ffffff;
-    max-width: 90rem;
+    max-width: 100rem;
 }
 
 .navbar-container{
@@ -59,6 +59,7 @@ body{
 .banner-container {
    margin-left: 125px;
 }
+
 
 .heading-text {
     font-size: 70px;
